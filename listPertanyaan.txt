@@ -1,0 +1,6 @@
+1. bagaimana performa penjualan dan revenue perusahaan dalam beberapa bulan terakhir?
+2. produk apa yang paling banyak dan paling sedikit terjual?
+3. bagaimana demografi pelanggan yang kita miliki?
+4. kapan terakhir pelanggan melakukan transaksi?
+5. seberapa sering seorang pelanggan melakukan pembelian dalam beberapa bulan terakhir?
+6. berapa banyak uang yang dihabiskan pelanggan dalam beberapa bulan terakhir?
